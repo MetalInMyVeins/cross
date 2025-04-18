@@ -1,0 +1,7 @@
+bin/
+build/
+buildwin32/
+buildwin64/
+lib/
+!vendor/lib/
+
