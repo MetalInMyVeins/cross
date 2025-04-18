@@ -3,5 +3,5 @@ build/
 buildwin32/
 buildwin64/
 lib/
-!vendor/lib/
+!vendor/win64/lib/
 
